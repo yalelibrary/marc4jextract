@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Creator",
+    "fieldSpec": "100abcdegqu:110abcdegnu:111acdegjnqu",
+    "trimPunctuation": true,
+    "scriptInclusion": "BOTH"
+  },
+  {
+    "name": "Title",
+    "fieldSpec": "245abnps",
+    "trimPunctuation": true,
+    "scriptInclusion": "NONE"
+  },
+  {
+    "name": "TitleStatement",
+    "fieldSpec": "245abcdefghijklmnopqrstuvwxyz",
+    "trimPunctuation": true,
+    "scriptInclusion": "NONE",
+    "delimiter": " ----- "
+  },
+  {
+    "name": "TitleStatement2",
+    "fieldSpec": "245",
+    "trimPunctuation": true,
+    "scriptInclusion": "NONE",
+    "delimiter": " ----- "
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Creator",
+    "fieldSpec": "100abcdegqu:110abcdegnu:111acdegjnqu",
+    "trimPunctuation": true,
+    "scriptInclusion": "BOTH"
+  }
+  {
+    "name": "Title",
+    "fieldSpec": "245abnps",
+    "trimPunctuation": true,
+    "scriptInclusion": "BOTH"
+  },
+  {
+    "name": "TitleStatement",
+    "fieldSpec": "245",
+    "trimPunctuation": true,
+    "scriptInclusion": "BOTH"
+  }
+]
